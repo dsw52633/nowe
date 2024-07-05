@@ -1,1 +1,1 @@
-README - wersja 1. Master
+README – wersja 1. Master
